@@ -1,4 +1,4 @@
-# Tell Me A Joke
+# Light and Dark Mode
 
 This project is to get the functionality of light and dark mode for a website and storing the user's choice in local storage.
 
